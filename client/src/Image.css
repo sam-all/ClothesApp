@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Image {
+    display: flex;
+    align-content: center;
+    max-width: 24rem;
+    margin: 0 auto;
+    padding-top: 100px;
+    border-radius: 0.5rem;
+    background-color: #ffffff;
+    transform: scale(1);
+    vertical-align: text-bottom;
+}
